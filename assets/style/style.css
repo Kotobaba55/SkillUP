@@ -1,0 +1,20 @@
+.signUpAll {
+    width: 630px;
+    background-color: oldlace;
+    margin: auto;
+    border-radius: 6px;
+    margin-top: 70px;
+}
+h1.mainTitle {
+    text-align: center;
+    padding-top: 46px;
+    color: #4c692e;
+}
+.back{
+    background-image: url(../images/fdpgfd.png);
+}
+.btn-primary {
+    color: #fff;
+    background-color: #303c24;
+    border-color: #303c24;
+}
